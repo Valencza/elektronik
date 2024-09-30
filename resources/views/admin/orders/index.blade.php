@@ -1,15 +1,13 @@
 @extends('admin.layouts.app')
 @section('content')
 <!-- ==================================================== -->
-          <!-- Start right Content here -->
-          <!-- ==================================================== -->
+<!-- Start right Content here -->
+<!-- ==================================================== -->
           <div>
 
                <div class="page-content">
-
                     <!-- Start Container Fluid -->
                     <div class="container-xxl">
-
                          <div class="row">
                               <div class="col-md-6 col-xl-3">
                                    <div class="card">
