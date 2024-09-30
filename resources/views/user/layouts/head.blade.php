@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
    <!-- font -->
-   <link rel="stylesheet" href="fonts/fonts.css">
+   <link rel="stylesheet" href="{{asset ('assets/user/fonts/fonts.css') }}">
    <!-- Icons -->
    <link rel="stylesheet" href="{{asset ('assets/user/fonts/font-icons.css') }}">
    <link rel="stylesheet" href="{{asset ('assets/user/css/bootstrap.min.css') }}">

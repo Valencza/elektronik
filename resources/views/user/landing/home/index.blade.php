@@ -11,7 +11,7 @@
                                 <div class="container">
                                     <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                                     <h1 class="fade-item fade-item-2">Savings for<br> dads and grads.</h1>
-                                    <a href="shop-default.html" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@
                                 <div class="container">
                                     <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                                     <h1 class="fade-item fade-item-2">Modern design</h1>
-                                    <a href="shop-default.html" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                                 <div class="container">
                                     <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                                     <h1 class="fade-item fade-item-2">Fast charging</h1>
-                                    <a href="shop-default.html" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +140,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide" lazy="true">
                                     <div class="collection-item-v2 type-small hover-img">
-                                        <a href="shop-collection-sub.html" class="collection-inner">
+                                        <a href="{{route ('shop') }}" class="collection-inner">
                                             <div class="collection-image img-style radius-10">
                                                 <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-1.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-1.jpg') }}" alt="collection-img">
                                             </div>
@@ -158,7 +158,7 @@
                                 </div>
                                 <div class="swiper-slide" lazy="true">
                                     <div class="collection-item-v2 type-small hover-img">
-                                        <a href="shop-collection-sub.html" class="collection-inner">
+                                        <a href="{{route ('shop') }}" class="collection-inner">
                                             <div class="collection-image img-style radius-10">
                                                 <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-2.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-2.jpg') }}" alt="collection-img">
                                             </div>
@@ -176,7 +176,7 @@
                                 </div>
                                 <div class="swiper-slide" lazy="true">
                                     <div class="collection-item-v2 type-small hover-img">
-                                        <a href="shop-collection-sub.html" class="collection-inner">
+                                        <a href="{{route ('shop') }}" class="collection-inner">
                                             <div class="collection-image img-style radius-10">
                                                 <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-3.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-3.jpg') }}" alt="collection-img">
                                             </div>
@@ -194,7 +194,7 @@
                                 </div>
                                 <div class="swiper-slide" lazy="true">
                                     <div class="collection-item-v2 type-small hover-img">
-                                        <a href="shop-collection-sub.html" class="collection-inner">
+                                        <a href="{{route ('shop') }}" class="collection-inner">
                                             <div class="collection-image img-style radius-10">
                                                 <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-4.png') }}" src="{{asset ('assets/user/images/collections/electronic-4.png') }}" alt="collection-img">
                                             </div>
@@ -212,7 +212,7 @@
                                 </div>
                                 <div class="swiper-slide" lazy="true">
                                     <div class="collection-item-v2 type-small hover-img">
-                                        <a href="shop-collection-sub.html" class="collection-inner">
+                                        <a href="{{route ('shop') }}" class="collection-inner">
                                             <div class="collection-image img-style radius-10">
                                                 <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-5.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-5.jpg') }}" alt="collection-img">
                                             </div>
@@ -248,7 +248,7 @@
                             <div class="sub fw-7 text_white">SALE UP TO 30% OFF TODAY</div>
                             <h2 class="heading fw-6 text_white">Best Deals Discounts</h2>
                             <p class="text_white">Fast wireless charging on-the-go.</p>
-                            <a href="shop-default.html" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop Collection</span></a>
+                            <a href="{{route ('shop') }}" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop Collection</span></a>
                         </div>
                     </div>
                 </div>
@@ -263,13 +263,13 @@
                         <div class="swiper-slide" lazy="true">
                             <div class="collection-item-v4 lg hover-img">
                                 <div class="collection-inner">
-                                    <a href="shop-collection-sub.html" class="radius-20 collection-image img-style">
+                                    <a href="{{route ('shop') }}" class="radius-20 collection-image img-style">
                                         <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-6.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-6.jpg') }}" alt="collection-img">
                                     </a>
                                     <div class="collection-content wow fadeInUp" data-wow-delay="0s">
                                         <p class="subheading">HOT ACCESSORIES</p>
                                         <h5 class="heading fw-6">Smart Assistant</h5>
-                                        <a href="shop-collection-sub.html" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop now</span></a>
+                                        <a href="{{route ('shop') }}" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop now</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -277,13 +277,13 @@
                         <div class="swiper-slide" lazy="true">
                             <div class="collection-item-v4 lg hover-img">
                                 <div class="collection-inner">
-                                    <a href="shop-collection-sub.html" class="radius-20 collection-image img-style">
+                                    <a href="{{route ('shop') }}" class="radius-20 collection-image img-style">
                                         <img class="lazyload" data-src="{{asset ('assets/user/images/collections/electronic-7.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-7.jpg') }}" alt="collection-img">
                                     </a>
                                     <div class="collection-content wow fadeInUp" data-wow-delay="0s">
                                         <p class="subheading">FAST AND FREE SHIPPING</p>
                                         <h5 class="heading fw-6">True Earbuds</h5>
-                                        <a href="shop-collection-sub.html" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop now</span></a>
+                                        <a href="{{route ('shop') }}" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop now</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -293,31 +293,6 @@
             </div>
         </section>
         <!-- /Collection -->
-        <!-- Shop Collection -->
-        <section class="flat-spacing-8 pb_0">
-            <div class="container">
-                <div class="tf-grid-layout gap-0 md-col-2 bg_primary tf-img-with-text style-5">
-                    <div class="tf-image-wrap wow fadeInUp" data-wow-delay="0s">
-                        <img class="lazyload" data-src="{{asset ('assets/user/images/collections/collection-72.jpg') }}" src="{{asset ('assets/user/images/collections/collection-72.jpg') }}" alt="collection-img">
-                    </div>
-                    <div class="tf-content-wrap wow fadeInUp" data-wow-delay="0s">
-                        <div class="sub-heading fw-7">ULTIMATE APPLE ACCESSORY.</div>
-                        <div class="heading">60% Discount</div>
-                        <p class="description text_black-2">Find the latest and greatest gadgets to enhance your electronic devices.
-
-                        </p>
-                        <div class="count-down">
-                            <div class="description"><strong>Hungry up ! </strong>Deals end in :</div>
-                            <div class="tf-countdown-v2">
-                                <div class="js-countdown" data-timer="8007500" data-labels="Days,Hours,Mins,Secs"></div>
-                            </div>
-                        </div>
-                        <a href="shop-collection-list.html" class="tf-btn style-2 btn-fill rounded-full animate-hover-btn">Shop Now</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- /Shop Collection -->
         <!-- Products -->
         <section class="flat-spacing-19">
             <div class="container">
@@ -334,7 +309,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="{{asset ('assets/user/images/collections/electronic-8.png') }}" data-src="{{asset ('assets/user/images/collections/electronic-8.png') }}" alt="image-product">
                                             <img class="lazyload img-hover" data-src="{{asset ('assets/user/images/collections/electronic-9.jpg') }}" src="{{asset ('assets/user/images/collections/electronic-9.jpg') }}" alt="image-product">
                                         </a>
@@ -360,7 +335,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a>
+                                        <a href="{{route ('products') }}" class="title link">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a>
                                         <span class="price">$39.99</span>
                                     </div>
                                 </div>
@@ -368,7 +343,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="{{asset ('assets/user/images/collections/electronic-10.png') }}" data-src="{{asset ('assets/user/images/collections/electronic-10.png' ) }}" alt="image-product">
                                             <img class="lazyload img-hover" data-src="{{asset ('assets/user/images/collections/electronic-11.png') }}" src="{{asset ('assets/user/images/collections/electronic-11.png') }}" alt="image-product">
                                         </a>
@@ -394,7 +369,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">Smart Light Switch with Thread</a>
+                                        <a href="{{route ('products') }}" class="title link">Smart Light Switch with Thread</a>
                                         <span class="price">$49.99</span>
                                     </div>
                                 </div>
@@ -402,7 +377,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="{{asset ('assets/user/images/collections/electronic-12.png') }}" data-src="{{asset ('assets/user/images/collections/electronic-12.png') }}" alt="image-product">
                                             <img class="lazyload img-hover" data-src="images/collections/electronic-13.png" src="images/collections/electronic-13.png" alt="image-product">
                                         </a>
@@ -428,7 +403,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">SoundForm Rise</a>
+                                        <a href="{{route ('products') }}" class="title link">SoundForm Rise</a>
                                         <span class="price">
                                             <span class="old-price">$100.00</span>
                                             <span class="new-price SoundForm Rise">$79.99</span>
@@ -439,7 +414,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="{{asset ('assets/user/images/collections/electronic-14.png') }}" data-src="{{asset ('assets/user/images/collections/electronic-14.png') }}" alt="image-product">
                                             <img class="lazyload img-hover" data-src="{{asset ('assets/user/images/collections/electronic-15.png') }}" src="{{asset ('assets/user/images/collections/electronic-15.png') }}" alt="image-product">
                                         </a>
@@ -465,7 +440,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">Wireless On-Ear Headphones for Kids</a>
+                                        <a href="{{route ('products') }}" class="title link">Wireless On-Ear Headphones for Kids</a>
                                         <span class="price">
                                             <span class="old-price">$34.99</span>
                                             <span class="new-price SoundForm Rise">$24.99</span>
@@ -476,7 +451,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="images/collections/electronic-16.jpg" data-src="images/collections/electronic-16.jpg" alt="image-product">
                                             <img class="lazyload img-hover" data-src="images/collections/electronic-17.jpg" src="images/collections/electronic-17.jpg" alt="image-product">
                                         </a>
@@ -502,7 +477,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
+                                        <a href="{{route ('products') }}" class="title link">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
                                         <span class="price">
                                             <span class="old-price">$149.99</span>
                                             <span class="new-price SoundForm Rise">$127.49</span>
@@ -513,7 +488,7 @@
                             <div class="swiper-slide height-auto" lazy="true">
                                 <div class="card-product overflow-hidden bg_white radius-20 border-line h-100">
                                     <div class="card-product-wrapper">
-                                        <a href="product-detail.html" class="product-img">
+                                        <a href="{{route ('products') }}" class="product-img">
                                             <img class="lazyload img-product" src="images/collections/electronic-18.jpg" data-src="images/collections/electronic-18.jpg" alt="image-product">
                                             <img class="lazyload img-hover" data-src="images/collections/electronic-19.jpg" src="images/collections/electronic-19.jpg" alt="image-product">
                                         </a>
@@ -539,7 +514,7 @@
                                         </div>
                                     </div>
                                     <div class="card-product-info has-padding">
-                                        <a href="product-detail.html" class="title link">3-in-1 Wireless Charger for Apple Devices</a>
+                                        <a href="{{route ('products') }}" class="title link">3-in-1 Wireless Charger for Apple Devices</a>
                                         <span class="price">$119.99</span>
                                     </div>
                                 </div>
@@ -579,17 +554,17 @@
                                     </div>
                                     <div class="product">
                                         <div class="image">
-                                            <a href="product-detail.html">
+                                            <a href="{{route ('products') }}">
                                                 <img class="lazyload" data-src="images/collections/electronic-16.jpg" src="images/collections/electronic-16.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="content-wrap">
                                             <div class="product-title">
-                                                <a href="product-detail.html">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
+                                                <a href="{{route ('products') }}">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
                                             </div>
                                             <div class="price">$105.95</div>
                                         </div>
-                                        <a href="product-detail.html" class=""><i class="icon-arrow1-top-left"></i></a>
+                                        <a href="{{route ('products') }}" class=""><i class="icon-arrow1-top-left"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -612,17 +587,17 @@
                                     </div>
                                     <div class="product">
                                         <div class="image">
-                                            <a href="product-detail.html">
+                                            <a href="{{route ('products') }}">
                                                 <img class="lazyload" data-src="images/collections/electronic-12.png" src="images/collections/electronic-12.png" alt="">
                                             </a>
                                         </div>
                                         <div class="content-wrap">
                                             <div class="product-title">
-                                                <a href="product-detail.html">SoundForm Rise</a>
+                                                <a href="{{route ('products') }}">SoundForm Rise</a>
                                             </div>
                                             <div class="price">$7.95</div>
                                         </div>
-                                        <a href="product-detail.html" class=""><i class="icon-arrow1-top-left"></i></a>
+                                        <a href="{{route ('products') }}" class=""><i class="icon-arrow1-top-left"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -645,17 +620,17 @@
                                     </div>
                                     <div class="product">
                                         <div class="image">
-                                            <a href="product-detail.html">
+                                            <a href="{{route ('products') }}">
                                                 <img class="lazyload" data-src="images/collections/electronic-8.png" src="images/collections/electronic-8.png" alt="">
                                             </a>
                                         </div>
                                         <div class="content-wrap">
                                             <div class="product-title">
-                                                <a href="product-detail.html">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a>
+                                                <a href="{{route ('products') }}">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a>
                                             </div>
                                             <div class="price">From $18.95</div>
                                         </div>
-                                        <a href="product-detail.html" class=""><i class="icon-arrow1-top-left"></i></a>
+                                        <a href="{{route ('products') }}" class=""><i class="icon-arrow1-top-left"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -678,17 +653,17 @@
                                     </div>
                                     <div class="product">
                                         <div class="image">
-                                            <a href="product-detail.html">
+                                            <a href="{{route ('products') }}">
                                                 <img class="lazyload" data-src="images/collections/electronic-10.png" src="images/collections/electronic-10.png" alt="">
                                             </a>
                                         </div>
                                         <div class="content-wrap">
                                             <div class="product-title">
-                                                <a href="product-detail.html">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
+                                                <a href="{{route ('products') }}">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a>
                                             </div>
                                             <div class="price">$16.95</div>
                                         </div>
-                                        <a href="product-detail.html" class=""><i class="icon-arrow1-top-left"></i></a>
+                                        <a href="{{route ('products') }}" class=""><i class="icon-arrow1-top-left"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -701,144 +676,6 @@
             </div>
         </section>
         <!-- /Testimonial -->
-        <!-- Blogs post -->
-        <section class="flat-spacing-14">
-            <div class="container">
-                <div class="flat-title wow fadeInUp" data-wow-delay="0s">
-                    <span class="title">Blogs post</span>
-                </div>
-                <div class="hover-sw-nav view-default hover-sw-3">
-                    <div dir="ltr" class="swiper tf-sw-product-sell" data-preview="3" data-tablet="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay="0s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-1.jpg" src="images/blog/electronic-1.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">Pop-punk is back in fashion</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay=".1s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-2.jpg" src="images/blog/electronic-2.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">The next generation of leather alternatives</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay=".2s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-3.jpg" src="images/blog/electronic-3.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">An Exclusive Clothing Collaboration</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay=".3s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-4.jpg" src="images/blog/electronic-4.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">The next generation of leather alternatives</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay=".4s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-5.jpg" src="images/blog/electronic-5.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">The next generation of leather alternatives</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide" lazy="true">
-                                <div class="blog-article-item wow fadeInUp" data-wow-delay=".5s">
-                                    <div class="article-thumb h-460 rounded-0">
-                                        <a href="blog-detail.html">
-                                            <img class="lazyload" data-src="images/blog/electronic-6.jpg" src="images/blog/electronic-6.jpg" alt="img-blog">
-                                        </a>
-                                        <div class="article-label">
-                                            <a href="blog-grid.html" class="tf-btn btn-sm animate-hover-btn">Accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="article-content">
-                                        <div class="article-title">
-                                            <a href="blog-detail.html" class="">The next generation of leather alternatives</a>
-                                        </div>
-                                        <div class="article-btn">
-                                            <a href="blog-detail.html" class="tf-btn btn-line fw-6">Read more<i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="nav-sw nav-next-slider nav-next-product box-icon w_46 round"><span class="icon icon-arrow-left"></span></div>
-                    <div class="nav-sw nav-prev-slider nav-prev-product box-icon w_46 round"><span class="icon icon-arrow-right"></span></div>
-                    <div class="sw-dots style-2 sw-pagination-product justify-content-center"></div>
-                </div>
-            </div>
-        </section>
-        <!-- /Blogs post -->
         <!-- Icon box -->
         <section class="flat-spacing-1 flat-iconbox bg_grey-7 wow fadeInUp" data-wow-delay="0s">
             <div class="container">

@@ -9,7 +9,7 @@
                             Oops...That link is broken.
                         </div>
                         <p>Sorry for the inconvenience. Go to our homepage to check out our latest collections.</p>
-                        <a href="shop-default.html" class="tf-btn btn-sm radius-3 btn-fill btn-icon animate-hover-btn">Shop now</a>
+                        <a href="{{route ('shop') }}" class="tf-btn btn-sm radius-3 btn-fill btn-icon animate-hover-btn">Shop now</a>
                     </div>
                 </div>
             </div>

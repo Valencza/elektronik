@@ -15,5 +15,6 @@
 @yield('content')
 
 @include('user.layouts.footer')
+@include('user.layouts.modal')
 @stack('custom-js')
 @include('user.layouts.tail')
