@@ -52,6 +52,8 @@ Route::get('/account/wishlist', function () {
 Route::get('/dashboard', function () {
     return view('admin/dashboard/index');
 })->name('dashboard');
+
+//dashboard products
 Route::get('/dashboard/products', function () {
     return view('admin/product/index');
 })->name('dashboard.products');
@@ -61,3 +63,80 @@ Route::get('/dashboard/products/create', function () {
 Route::get('/dashboard/products/edit', function () {
     return view('admin/product/edit');
 })->name('dashboard.products.edit');
+Route::get('/dashboard/products/detail', function () {
+    return view('admin/product/detail');
+})->name('dashboard.products.detail');
+
+//dashboard category
+Route::get('/dashboard/category/index', function () {
+    return view('admin/category/index');
+})->name('dashboard.category.index');
+Route::get('/dashboard/category/edit', function () {
+    return view('admin/category/edit');
+})->name('dashboard.category.edit');
+Route::get('/dashboard/category/create', function () {
+    return view('admin/category/create');
+})->name('dashboard.category.create');
+
+//dashboard orders
+Route::get('/dashboard/orders/index', function () {
+    return view('admin/orders/index');
+})->name('dashboard.orders.index');
+Route::get('/dashboard/orders/edit', function () {
+    return view('admin/orders/edit');
+})->name('dashboard.orders.edit');
+Route::get('/dashboard/orders/details', function () {
+    return view('admin/orders/details');
+})->name('dashboard.orders.details');
+Route::get('/dashboard/orders/cart', function () {
+    return view('admin/orders/cart');
+})->name('dashboard.orders.cart');
+Route::get('/dashboard/orders/checkout', function () {
+    return view('admin/orders/checkout');
+})->name('dashboard.orders.checkout');
+
+//dashboard purchases
+Route::get('/dashboard/purchases/index', function () {
+    return view('admin/purchases/index');
+})->name('dashboard.purchases.index');
+Route::get('/dashboard/purchases/orders', function () {
+    return view('admin/purchases/orders');
+})->name('dashboard.purchases.orders');
+Route::get('/dashboard/purchases/return', function () {
+    return view('admin/purchases/return');
+})->name('dashboard.purchases.return');
+
+//dashboard attributes
+Route::get('/dashboard/attributes/index', function () {
+    return view('admin/attributes/index');
+})->name('dashboard.attributes.index');
+Route::get('/dashboard/attributes/create', function () {
+    return view('admin/attributes/create');
+})->name('dashboard.attributes.create');
+Route::get('/dashboard/attributes/edit', function () {
+    return view('admin/attributes/edit');
+})->name('dashboard.attributes.edit');
+
+//dashboard invoice
+Route::get('/dashboard/invoice/index', function () {
+    return view('admin/invoice/index');
+})->name('dashboard.invoice.index');
+Route::get('/dashboard/invoice/details', function () {
+    return view('admin/invoice/details');
+})->name('dashboard.invoice.details');
+
+//dashboard account
+Route::get('/dashboard/account/index', function () {
+    return view('admin/account/index');
+})->name('dashboard.account.index');
+Route::get('/dashboard/account/details', function () {
+    return view('admin/account/details');
+})->name('dashboard.account.details');
+
+//dashboard roles
+Route::get('/dashboard/roles/index', function () {
+    return view('admin/roles/index');
+})->name('dashboard.roles.index');
+Route::get('/dashboard/roles/edit', function () {
+    return view('admin/roles/edit');
+})->name('dashboard.roles.edit');
