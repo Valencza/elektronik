@@ -24,7 +24,6 @@
                                         </li>
                                     </ul>
                                 
-                                    <a href="contact-1.html" class="tf-btn btn-line">Arahkan ke kantor kami<i class="icon icon-arrow1-top-left"></i></a>
                                     <ul class="tf-social-icon d-flex gap-10 style-white">
                                         <li><a href="#" class="box-icon w_34 round social-facebook social-line"><i class="icon fs-14 icon-fb"></i></a></li>
                                         <li><a href="#" class="box-icon w_34 round social-twiter social-line"><i class="icon fs-12 icon-Icon-x"></i></a></li>
