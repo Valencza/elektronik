@@ -9,9 +9,9 @@
                             <img class="lazyload" data-src="{{asset ('assets/user/images/slider/Slideshow_Electronics1.jpg') }}" src="{{asset ('assets/user/images/slider/Slideshow_Electronics1.jpg') }}" alt="fashion-slideshow-01">
                             <div class="box-content">
                                 <div class="container">
-                                    <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
-                                    <h1 class="fade-item fade-item-2">Savings for<br> dads and grads.</h1>
-                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <p class="fade-item fade-item-1">DISKON HINGGA 1 JUTA DENGAN BERBAGAI PENAWARAN MENARIK!.</p>
+                                    <h1 class="fade-item fade-item-2">Lepaskan Sperma</h1>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Belanja Sekarang</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -21,9 +21,9 @@
                             <img class="lazyload" data-src="{{asset ('assets/user/images/slider/Slideshow_Electronics2.jpg') }}" src="{{asset ('assets/user/images/slider/Slideshow_Electronics2.jpg') }}" alt="fashion-slideshow-01">
                             <div class="box-content">
                                 <div class="container">
-                                    <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
-                                    <h1 class="fade-item fade-item-2">Modern design</h1>
-                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <p class="fade-item fade-item-1">DISKON HINGGA 1 JUTA DENGAN BERBAGAI PENAWARAN MENARIK!.</p>
+                                    <h1 class="fade-item fade-item-2">Inovasi <br >Revolusioner</h1>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Belanja Sekarang</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -33,9 +33,9 @@
                             <img class="lazyload" data-src="{{asset ('assets/user/images/slider/Slideshow_Electronics3.jpg') }}" src="{{asset ('assets/user/images/slider/Slideshow_Electronics3.jpg') }}" alt="fashion-slideshow-01">
                             <div class="box-content">
                                 <div class="container">
-                                    <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
-                                    <h1 class="fade-item fade-item-2">Fast charging</h1>
-                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                                    <p class="fade-item fade-item-1">DISKON HINGGA 1 JUTA DENGAN BERBAGAI PENAWARAN MENARIK!.</p>
+                                    <h1 class="fade-item fade-item-2">Performa Maksimal</h1>
+                                    <a href="{{route ('shop') }}" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Belanja Sekarang</span><i class="icon icon-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

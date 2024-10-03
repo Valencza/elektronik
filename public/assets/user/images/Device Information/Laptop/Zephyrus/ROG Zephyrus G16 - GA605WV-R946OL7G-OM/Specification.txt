@@ -1,0 +1,104 @@
+Harga: Rp40.999.000
+
+Sistem Operasi
+Windows 11 Home
+Copilot+ PC experiences are coming. Requires free updates available starting late November 2024. Timing varies by device and region. See aka.ms/copilotpluspc
+
+Prosesor
+AMD Ryzen™ AI 9 HX 370 Processor 2.0GHz (36MB Cache, up to 5.1GHz, 12 cores, 24 Threads); AMD XDNA™ NPU up to 50TOPS
+
+Grafis
+NVIDIA® GeForce RTX™ 4060 Laptop GPU (233 AI TOPs)
+ROG Boost: 1940MHz* at 100W (1890MHz Boost Clock+50MHz OC, 85W+15W Dynamic Boost)
+8GB GDDR6
+
+Neural Processor
+AMD XDNA™ NPU up to 50TOPS
+
+Tampilan
+ROG Nebula Display
+16-inch
+2.5K (2560 x 1600, WQXGA) 16:10 aspect ratio
+OLED
+Glossy display
+DCI-P3: 100%
+Refresh Rate: 240Hz
+Response Time: 0.2ms
+G-Sync / Adaptive-Sync
+Pantone Validated
+MUX Switch + NVIDIA® Advanced Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+16GB*2 LPDDR5X on board
+Max Capacity: 32GB
+Support dual channel memory
+
+Penyimpanan
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery
+1x Type-C USB 4 with support for DisplayPort™ / power delivery (data speed up to 40Gbps)
+1x card reader (SD Card) (SD Express 7.0)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard 1-Zone RGB
+Touchpad
+With Copilot key
+*Copilot in Windows (in preview) is rolling out gradually within the latest update to Windows 11 in select global markets. Timing of availability varies by device and market. Learn more: https://www.microsoft.com/en-us/windows/copilot-ai-features?r=1#faq
+
+Kamera
+1080P FHD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in 3-microphone array
+4-speaker (dual force woofer) system with Smart Amplifier Technology, 2 Tweeters
+
+Jaringan dan Komunikasi
+Wi-Fi 7(802.11be) (Triple band) 2*2+Bluetooth® 5.4 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+Rectangle Conn, 200W AC Adapter, Output: 20V DC, 10A, 200W, Input: 100-240V AC, 50/60Hz universal
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+Slash Lighting
+
+Berat
+1.85 Kg (4.08 lbs)
+
+Dimensi (L x D x T)
+35.4 x 24.6 x 1.49 ~ 1.64 cm (13.94" x 9.69" x 0.59" ~ 0.65")
+
+Microsoft Office
+Microsoft Office Home & Student 2021 + Microsoft 365 Basic
+
+Xbox Game Pass
+Xbox Game Pass for PC_3 months (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+Pluton Security Processor
+Secured-core PC (Level 3)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG Zephyrus G16 Sleeve (2024)
+ROG Impact Gaming Mouse
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal

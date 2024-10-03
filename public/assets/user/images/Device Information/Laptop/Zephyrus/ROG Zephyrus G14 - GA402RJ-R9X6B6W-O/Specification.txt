@@ -1,0 +1,93 @@
+Harga: Rp21.499.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+Grafis
+AMD Radeon™ RX 6700S
+ROG Boost: up to 100W(SmartShift)
+8GB GDDR6
+
+Tampilan
+14-inch
+FHD+ 16:10 (1920 x 1200, WUXGA)
+IPS-level
+anti-glare display
+sRGB: 100%
+Adobe: 75.35%
+Refresh Rate: 144Hz
+Response Time: 3ms
+Adaptive-Sync
+Pantone Validated
+MUX Switch
+Support Dolby Vision HDR : Yes
+
+Memori
+8GB DDR5 on board
+8GB DDR5-4800 SO-DIMM
+Max Capacity: 24GB
+Support dual channel memory
+
+Penyimpanan
+512GB PCIe® 4.0 NVMe™ M.2 SSD
+1x DDR5 SO-DIMM slot
+1x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support display
+1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery
+1x card reader (microSD) (UHS-II)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard
+Touchpad
+
+Kamera
+720P HD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in 3-microphone array
+4-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+76WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0, 240W AC Adapter, Output: 20V DC, 12A, 240W, Input: 100~240C AC 50/60Hz universal
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal
+
+Lampu Perangkat
+AniMe Matrix™
+
+Berat
+1.72 Kg (3.79 lbs)
+
+Dimensi (L x D x T)
+31.2 x 22.7 x 1.95 ~ 1.95 cm (12.28" x 8.94" x 0.77" ~ 0.77")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_1 month (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG Zephyrus G14 Sleeve (2022)
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal

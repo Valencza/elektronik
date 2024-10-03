@@ -1,0 +1,100 @@
+Harga: Rp75.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+Intel® Core™ i9 Processor 14900HX 2.2 GHz (36MB Cache, up to 5.8 GHz, 24 cores, 32 Threads)
+
+Grafis
+NVIDIA® GeForce RTX™ 4090 Laptop GPU (686 AI TOPs)
+ROG Boost: 2090MHz* at 175W (2040MHz Boost Clock+50MHz OC, 150W+25W Dynamic Boost)
+16GB GDDR6
+
+Tampilan
+ROG Nebula HDR Display
+18-inch
+2.5K (2560 x 1600, WQXGA) 16:10 aspect ratio
+Mini LED
+anti-glare display
+DCI-P3: 100.00%
+Refresh Rate: 240Hz
+Response Time: 3ms
+G-Sync
+Pantone Validated
+MUX Switch + NVIDIA® Advanced Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+16GB DDR5-5600 SO-DIMM, the memory speed of the systems vary by CPU SPEC x 2
+Max Capacity: 64GB
+Support dual channel memory
+
+Penyimpanan
+2TB PCIe® 4.0 NVMe™ M.2 Performance SSD
+2x DDR5 SO-DIMM slots
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+1x 2.5G LAN port
+1x Thunderbolt™ 4 with support for DisplayPort™ / G-SYNC (data speed up to 40Gbps)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard Per-Key RGB
+Touchpad
+
+Kamera
+720P HD
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+4-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0, 330W AC Adapter, Output: 20V DC, 16.5A, 330W, Input: 100~240C AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+Aura Sync Light Bar
+Aura Sync logo
+Aura Sync Rear Glow
+
+Berat
+3.10 Kg ( lbs)
+
+Dimensi (L x D x T)
+39.9 x 29.4 x 2.31 ~ 3.08 cm (15.71" x 11.57" x 0.91" ~ 1.21")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_3 months (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG backpack
+ROG Fusion II 300
+ROG Gladius III Mouse P514
+Marketing Giveaway (1 Customizable Armor Cap)
+*Included accessories vary according to country and territory. Please check with your local ASUS retailer for details
