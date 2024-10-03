@@ -2,7 +2,7 @@
             <div class="footer-wrap wow fadeIn" data-wow-delay="0s">
                 <div class="footer-body">
                     <div class="container">
-                        <div class="row">
+                        <div class="row justify-content-center">
                             <div class="col-xl-3 col-md-6 col-12">
                                 <div class="footer-infor">
                                     <div class="footer-logo">
