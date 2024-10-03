@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AuthController;
 use Illuminate\Support\Facades\Route;
 
 // Navbar
@@ -49,6 +50,13 @@ Route::get('/account/wishlist', function () {
 })->name('account.wishlist');
 
 //DASHBOARD ADMIN
+
+// Route::middleware(['auth'])->group(function () {
+//     Route::get('/dashboard', function () {
+//         return view('dashboard');
+//     })->name('dashboard');
+// });
+
 Route::get('/dashboard', function () {
     return view('admin/dashboard/index');
 })->name('dashboard');
