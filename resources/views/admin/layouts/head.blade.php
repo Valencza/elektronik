@@ -27,3 +27,6 @@
 
      <!-- Theme Config js (Require in all Page) -->
      <script src="{{asset ('assets/admin/js/config.js') }}"></script>
+
+     <!-- Include Dropify CSS -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/dropify/dist/css/dropify.min.css">

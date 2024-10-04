@@ -1,5 +1,5 @@
 @include('admin.layouts.head')
-@stack('custom-css')
+@push('css')
 
 <!-- START Wrapper -->
 <div class="wrapper">
@@ -10,4 +10,5 @@
 @yield('content')
 
 @include('admin.layouts.footer')
+@push('js')
 @include('admin.layouts.tail')

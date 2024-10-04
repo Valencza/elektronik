@@ -33,25 +33,12 @@
                          </li>
 
                          <li class="nav-item">
-                              <a class="nav-link menu-arrow" href="#sidebarProducts" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarProducts">
+                              <a class="nav-link" href="{{route ('dashboard.products') }}">
                                    <span class="nav-icon">
                                         <iconify-icon icon="solar:t-shirt-bold-duotone"></iconify-icon>
                                    </span>
-                                   <span class="nav-text"> Products </span>
+                                   <span class="nav-text"> Produk </span>
                               </a>
-                              <div class="collapse" id="sidebarProducts">
-                                   <ul class="nav sub-navbar-nav">
-                                        <li class="sub-nav-item">
-                                             <a class="sub-nav-link" href="{{route ('dashboard.products') }}">List</a>
-                                        </li>
-                                        <li class="sub-nav-item">
-                                             <a class="sub-nav-link" href="{{route ('dashboard.products.edit') }}">Edit</a>
-                                        </li>
-                                        <li class="sub-nav-item">
-                                             <a class="sub-nav-link" href="{{route ('dashboard.products.create') }}">Create</a>
-                                        </li>
-                                   </ul>
-                              </div>
                          </li>
 
                          <li class="nav-item">

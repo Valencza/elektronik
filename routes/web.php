@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 
 // Navbar
@@ -62,18 +63,14 @@ Route::get('/dashboard', function () {
 })->name('dashboard');
 
 //dashboard products
-Route::get('/dashboard/products', function () {
-    return view('admin/product/index');
-})->name('dashboard.products');
-Route::get('/dashboard/products/create', function () {
-    return view('admin/product/create');
-})->name('dashboard.products.create');
-Route::get('/dashboard/products/edit', function () {
-    return view('admin/product/edit');
-})->name('dashboard.products.edit');
-Route::get('/dashboard/products/detail', function () {
-    return view('admin/product/detail');
-})->name('dashboard.products.detail');
+Route::get('/dashboard/products', [ProductController::class, 'index'])->name('dashboard.products');
+Route::get('/dashboard/products/create', [ProductController::class, 'create'])->name('dashboard.products.create');
+Route::post('/dashboard/products/store', [ProductController::class, 'store'])->name('dashboard.products.store');
+Route::get('/dashboard/products/{id}/edit', [ProductController::class, 'edit'])->name('dashboard.products.edit');
+Route::put('/dashboard/products/{id}', [ProductController::class, 'update'])->name('dashboard.products.update');
+Route::delete('/dashboard/products/{id}', [ProductController::class, 'destroy'])->name('dashboard.products.destroy');
+Route::get('/dashboard/products/{id}', [ProductController::class, 'detail'])->name('dashboard.products.detail');
+
 
 //dashboard category
 Route::get('/dashboard/category/index', function () {
