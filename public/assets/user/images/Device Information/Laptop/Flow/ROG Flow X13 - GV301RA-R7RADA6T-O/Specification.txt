@@ -1,0 +1,84 @@
+Harga: Rp36.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 7 6800HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)
+
+Grafis
+AMD Radeon™ 680M
+NA
+
+Tampilan
+13.4-inch
+FHD+ 16:10 (1920 x 1200, WUXGA)
+IPS-level
+Glossy display
+sRGB: 100%
+Adobe: 75%
+Layar Sentuh
+Refresh Rate: 120Hz
+Adaptive-Sync
+Pantone Validated
+Support stylus: Yes
+Support Dolby Vision HDR : Yes
+
+Memori
+8GB*2 LPDDR5 on board
+Max Capacity: 16GB
+Support dual channel memory
+
+Penyimpanan
+512GB PCIe® 4.0 NVMe™ M.2 SSD (2230)
+1x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x USB 3.2 Gen 2 Type-A
+1x ROG XG Mobile Interface and USB Type-C combo port (with USB 3.2 Gen2, with support for DisplayPort™ 1.4) (data speed up to 10Gbps)
+2x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard
+Touchpad
+
+Kamera
+720P HD
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+DAC
+Hi-Res certification (for headphone)
+Built-in 3-microphone array
+2-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+62WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC, 50/60Hz universal
+
+Berat
+1.30 Kg (2.87 lbs)
+
+Dimensi (L x D x T)
+29.9 x 22.2 x 1.58 ~ 1.58 cm (11.77" x 8.74" x 0.62" ~ 0.62")
+
+Microsoft Office
+Office Home and Student
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+FingerPrint: YES
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG Flow Sleeve (2022)
+Stylus (ASUS Pen SA201H-MPP2.0 support)

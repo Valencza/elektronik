@@ -1,0 +1,93 @@
+Harga: Rp35.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 9 7940HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)
+
+Grafis
+NVIDIA® GeForce RTX™ 4070 Laptop GPU (321 AI TOPs)
+ROG Boost: 1280MHz* at 60W (1230MHz Boost Clock+50MHz OC, 45W+15W Dynamic Boost)
+8GB GDDR6
+
+Tampilan
+ROG Nebula Display
+13.4-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+IPS-level
+Glossy display
+sRGB: NA
+Adobe: NA
+DCI-P3: 100%
+Layar Sentuh
+Refresh Rate: 165Hz
+Response Time: 3ms
+G-Sync
+Pantone Validated
+MUX Switch + NVIDIA® Advanced Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+16GB*2 LPDDR5 on board
+Max Capacity: 32GB
+Support dual channel memory
+
+Penyimpanan
+1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)
+1x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL support HDMI switch
+1x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery
+1x ROG XG Mobile Interface and USB Type-C combo port (with USB 3.2 Gen2, with support for DisplayPort™ 1.4) (data speed up to 10Gbps)
+1x Type-C USB 4 with support for DisplayPort™ / power delivery (data speed up to 40Gbps)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard
+Touchpad
+
+Kamera
+1080P FHD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+DAC
+Hi-Res certification (for headphone)
+Support Microsoft Cortana near field/far field
+Built-in 3-microphone array
+2-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+75WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+TYPE-C, 130W AC Adapter, Output: 20V DC, 6.5A, 130W, Input: 100~240V AC, 50/60Hz universal
+
+Berat
+1.30 Kg (2.87 lbs)
+
+Dimensi (L x D x T)
+29.9 x 21.2 x 1.67 ~ 1.87 cm (11.77" x 8.35" x 0.66" ~ 0.74")
+
+Microsoft Office
+Office Home and Student
+
+Ecolabels & Compliances
+ENERGY STAR®
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG Flow Sleeve (2022)
+Stylus (ASUS Pen SA203H-MPP2.0 support)

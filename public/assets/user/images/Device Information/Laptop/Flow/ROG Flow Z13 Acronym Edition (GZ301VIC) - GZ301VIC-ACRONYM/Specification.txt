@@ -1,0 +1,98 @@
+Harga: Rp46.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+13th Gen Intel® Core™ i9-13900H Processor 2.6 GHz (24M Cache, up to 5.4 GHz, 14 cores: 6 P-cores and 8 E-cores)
+
+Grafis
+NVIDIA® GeForce RTX™ 4070 Laptop GPU (321 AI TOPs)
+ROG Boost: 1670MHz* at 65W (1620MHz Boost Clock+50MHz OC, 50W+15W Dynamic Boost)
+8GB GDDR6
+
+Tampilan
+ROG Nebula Display
+13.4-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+IPS-level
+Glossy display
+Refresh Rate: 165Hz
+Adaptive-Sync
+Pantone Validated
+Support stylus: Yes
+MUX Switch + Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+16GB*2 LPDDR5 on board
+Max Capacity: 32GB
+Support dual channel memory
+
+Penyimpanan
+1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)
+1x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+1x Thunderbolt™ 4 support DisplayPort™ / power delivery
+1x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)
+1x ROG XG Mobile Interface and USB Type-C combo port (with USB 3.2 Gen2, with support for DisplayPort™ 1.4) (data speed up to 10Gbps)
+1x card reader (microSD) (UHS-II)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard
+Touchpad
+
+Kamera
+13MP camera and 5MP IR camera
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in 3-microphone array
+2-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Dual band) 2*2 + Bluetooth® 5.2 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+56WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+TYPE-C, 130W AC Adapter, Output: 20V DC, 6.5A, 130W, Input: 100~240V AC, 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Berat
+1.32 Kg (2.91 lbs)
+
+Dimensi (L x D x T)
+30.2 x 21.4 x 1.56 ~ 2.00 cm (11.89" x 8.43" x 0.61" ~ 0.79")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_3 months (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Ecolabels & Compliances
+ENERGY STAR®
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+Stylus (ASUS Pen SA203-MPP2.0 support)
+Accessory set (accessory bag, main strap & keyboard strap)
+Stylus (ASUS Pen SA203H-MPP2.0 support)
+
+Note
+Dimension of keyboard: 30.2 x 22.8 x 5.75 cm
+Weight of keyboard: 0.39 Kg

@@ -1,0 +1,93 @@
+Harga: Rp67.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 9 7945HX Mobile Processor (16-core/32-thread, 64MB L3 cache, up to 5.4 GHz max boost)
+
+Grafis
+NVIDIA® GeForce RTX™ 4090 Laptop GPU (686 AI TOPs)
+ROG Boost: 2090MHz* at 175W (2040MHz Boost Clock+50MHz OC, 150W+25W Dynamic Boost)
+16GB GDDR6
+
+Tampilan
+17,3-inci
+WQHD (2560 x 1440) 16:9
+IPS-level
+anti-glare display
+DCI-P3: 100%
+Refresh Rate: 240Hz
+Response Time: 3ms
+G-Sync
+MUX Switch + NVIDIA® Advanced Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+16GB DDR5-4800 SO-DIMM x 2
+Max Capacity: 64GB
+
+Penyimpanan
+2TB PCIe® 4.0 NVMe™ M.2 Performance SSD
+2x DDR5 SO-DIMM slots
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+2x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)
+1x USB 3.2 Gen 2 Type-C with support for DisplayPort™ / G-SYNC (data speed up to 10Gbps)
+1x 2.5G LAN port
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard Per-Key RGB
+Touchpad
+
+Kamera
+720P HD
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+2-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0, 330W AC Adapter, Output: 20V DC, 16.5A, 330W, Input: 100~240C AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+Aura Sync Light Bar
+
+Berat
+3.00 Kg (6.61 lbs)
+
+Dimensi (L x D x T)
+39.5 x 28.2 x 2.34 ~ 2.83 cm (15.55" x 11.10" x 0.92" ~ 1.11")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_3 months (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG backpack
+ROG Fusion II 300
+ROG Gladius III Mouse P514

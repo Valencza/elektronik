@@ -1,0 +1,91 @@
+Harga: Rp22.499.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+Grafis
+NVIDIA® GeForce RTX™ 3060 Laptop GPU
+ROG Boost: 1475MHz* at 120W (1425MHz Boost Clock+50MHz OC, 100W+20W Dynamic Boost)
+6GB GDDR6
+
+Tampilan
+15,6-inci
+WQHD (2560 x 1440) 16:9
+IPS-level
+anti-glare display
+DCI-P3: 100%
+Refresh Rate: 165Hz
+Response Time: 3ms
+Adaptive-Sync
+Pantone Validated
+MUX Switch + Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+8GB DDR5 on board
+8GB DDR5-4800 SO-DIMM
+Max Capacity: 40GB
+Support dual channel memory
+
+Penyimpanan
+1TB PCIe® 4.0 NVMe™ M.2 SSD
+1x DDR5 SO-DIMM slot
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+2x USB 3.2 Gen 2 Type-A
+1x RJ45 LAN port
+2x USB 3.2 Gen 2 Type-C with support for DisplayPort™ / power delivery (data speed up to 10Gbps)
+1x card reader (microSD) (UHS-II)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard
+Touchpad
+
+Kamera
+720P HD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+2x 2W Tweeter
+2x 2W dual-force woofer with Smart Amp Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0, 200W AC Adapter, Output: 20V DC, 10A, 200W, Input: 100-240V AC, 50/60Hz universal
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal
+
+Berat
+1.90 Kg (4.19 lbs)
+
+Dimensi (L x D x T)
+35.5 x 24.3 x 1.99 ~ 1.99 cm (13.98" x 9.57" x 0.78" ~ 0.78")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_1 month (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Kensington Security Slot™
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG backpack
+ROG Chakram Core mouse P511
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal

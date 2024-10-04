@@ -1,0 +1,71 @@
+Harga: Rp17.999.000
+
+
+Operating System
+Windows 11 Home
+
+Processor
+AMD Ryzen™ 7 7435HS Mobile Processor 3.1GHz (20MB Cache, up to 4.5 GHz, 8 cores, 16 Threads)
+
+Graphics
+AMD Radeon™ RX 7600S, up to 95W(SmartShift), 8GB GDDR6
+
+Display
+16-inch, FHD+ 16:10 (1920 x 1200, WUXGA), IPS-level, Anti-glare display, sRGB:100%, Adobe:75.35%, Refresh Rate:165Hz, Response Time:7ms, FreeSync Premium
+
+Memory
+16GB DDR5-4800 SO-DIMM, Max Capacity:32GB
+
+Storage
+512GB PCIe® 4.0 NVMe™ M.2 SSD, 2x DDR5 SO-DIMM slots
+2x M.2 PCIe
+
+I/O Ports
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+1x USB 3.2 Gen 2 Type-C
+2x USB 3.2 Gen 1 Type-A
+1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery
+1x RJ45 LAN port
+
+Keyboard and Touchpad
+Backlit Chiclet Keyboard Single Light
+Touchpad
+
+Camera
+720P HD camera
+
+Audio
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+2-speaker system
+
+Network and Communication
+Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Battery
+90WHrs, 4S1P, 4-cell Li-ion
+
+Power Supply
+ø6.0, 240W AC Adapter, Output: 20V DC, 12A, 240W, Input: 100~240C AC 50/60Hz universal
+
+Weight
+2.20 Kg (4.85 lbs)
+
+Dimensions (W x D x H)
+35.5 x 25.2 x 2.21 ~ 2.68 cm (13.98" x 9.92" x 0.87" ~ 1.06")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_3 months (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Ecolabels & Compliances
+ENERGY STAR®
+
+Security
+Kensington Security Slot™
+McAfee® 30 days free trial

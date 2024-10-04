@@ -1,0 +1,97 @@
+Harga: Rp28.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 7 6800HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)
+
+Grafis
+NVIDIA® GeForce RTX™ 3050 Ti Laptop GPU
+ROG Boost: 1745MHz* at 125W (1695MHz Boost Clock+50MHz OC, 100W+25W Dynamic Boost)
+4GB GDDR6
+
+Tampilan
+ROG Nebula Display
+16-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+IPS-level
+Glossy display
+DCI-P3: 100%
+Layar Sentuh
+Refresh Rate: 165Hz
+Response Time: 3ms
+Adaptive-Sync
+Pantone Validated
+Support stylus: Yes
+MUX Switch + Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+8GB DDR5-4800 SO-DIMM x 2
+Max Capacity: 64GB
+Support dual channel memory
+
+Penyimpanan
+512GB PCIe® 4.0 NVMe™ M.2 SSD
+2x DDR5 SO-DIMM slots
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.0b support HDMI switch
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery
+1x ROG XG Mobile Interface and USB Type-C combo port (with USB 3.2 Gen2, with support for DisplayPort™ 1.4) (data speed up to 10Gbps)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard 1-Zone RGB
+Touchpad
+
+Kamera
+720P HD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Support Microsoft Cortana near field/far field
+Built-in 3-microphone array
+4-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0, 240W AC Adapter, Output: 20V DC, 12A, 240W, Input: 100~240C AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+Aura Sync logo
+
+Berat
+2.00 Kg (4.41 lbs)
+
+Dimensi (L x D x T)
+35.5 x 24.3 x 1.94 ~ 2.19 cm (13.98" x 9.57" x 0.76" ~ 0.86")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_1 month (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG backpack
+Stylus (ASUS Pen SA201H-MPP2.0 support)

@@ -1,0 +1,101 @@
+Harga: Rp58.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+AMD Ryzen™ 9 6900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)
+
+Grafis
+NVIDIA® GeForce RTX™ 3070 Ti Laptop GPU
+ROG Boost: 1460 MHz* at 150W (1410MHz Boost Clock+50MHz OC, 125W+25W Dynamic Boost)
+8GB GDDR6
+
+Tampilan
+ROG Nebula HDR Display
+16-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+Mini LED
+anti-glare display
+DCI-P3: 100
+Refresh Rate: 165Hz
+Response Time: 3ms
+FreeSync Premium Pro
+Pantone Validated
+Optimus
+Support Dolby Vision HDR : Yes
+
+Additional Display
+ScreenPad™ Plus (14" 3840 x 1100(4K) IPS-level Panel Support Stylus)
+
+Memori
+16GB DDR5-4800 SO-DIMM x 2
+Max Capacity: 64GB
+Support dual channel memory
+
+Penyimpanan
+1TB PCIe® 4.0 NVMe™ M.2 Performance SSD
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+1x USB 3.2 Gen 2 Type-C support display
+1x RJ45 LAN port
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard Per-Key RGB
+Touchpad
+Support NumberPad
+
+Kamera
+720P HD IR Camera for Windows Hello
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+4-speaker (dual-force woofer) system with Smart Amplifier Technology, 2 Tweeters
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.) -RangeBoost
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0; 240W AC Adaptor; Output: 20V DC, 12A, 240W; Input: 100~240C AC 50/60Hz universal
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+AAS Aura Sync Lighting
+
+Berat
+2.60 Kg (5.73 lbs)
+
+Dimensi (L x D x T)
+35.5 x 26.6 x 2.05 ~ 2.05 cm (13.98" x 10.47" x 0.81" ~ 0.81")
+
+Microsoft Office
+Office Home and Student
+
+Xbox Game Pass
+Xbox Game Pass for PC_1 month (*Terms and exclusions apply. Offer only available in eligible markets for Xbox Game Pass for PC. Eligible markets are determined at activation. Game catalog varies by region, device, and time.)
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+
+Disertakan dalam Kotaknya
+ROG Ranger BP2701 Gaming Backpack
+ROG Delta headset
+Palm rest
+ROG Chakram Core mouse P511
+TYPE-C, 100W AC Adapter, Output: 20V DC, 5A, 100W, Input: 100~240V AC 50/60Hz universal

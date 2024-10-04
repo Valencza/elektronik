@@ -1,0 +1,97 @@
+Harga: Rp28.999.000
+
+Sistem Operasi
+Windows 11 Home
+
+Prosesor
+13th Gen Intel® Core™ i7-13650HX Processor 2.6 GHz 24M Cache, up to 4.9 GHz, 14 cores: 6 P-cores and 8 E-cores)
+
+Grafis
+NVIDIA® GeForce RTX™ 4060 Laptop GPU (233 AI TOPs)
+ROG Boost: 2420MHz* at 140W (2370MHz Boost Clock+50MHz OC, 115W+25W Dynamic Boost)
+8GB GDDR6
+
+Tampilan
+18-inch
+FHD+ 16:10 (1920 x 1200, WUXGA)
+IPS-level
+anti-glare display
+sRGB: 100.00%
+Adobe: 75.35%
+Refresh Rate: 165Hz
+G-Sync
+MUX Switch + NVIDIA® Advanced Optimus
+Support Dolby Vision HDR : Yes
+
+Memori
+8GB DDR5-4800 SO-DIMM x 2
+Max Capacity: 32GB
+Support dual channel memory
+
+Penyimpanan
+512GB PCIe® 4.0 NVMe™ M.2 SSD
+2x DDR5 SO-DIMM slots
+2x M.2 PCIe
+2x DDR5 SO-DIMM slots
+2x M.2 PCIe
+
+Port I/O
+1x 3.5mm Combo Audio Jack
+1x HDMI 2.1 FRL
+2x USB 3.2 Gen 2 Type-A
+1x USB 3.2 Gen 2 Type-C support display / power delivery
+1x RJ45 LAN port
+1x Thunderbolt™ 4 with support for DisplayPort™ (data speed up to 40Gbps)
+
+Keyboard dan Touchpad
+Backlit Chiclet Keyboard Per-Key RGB
+Touchpad
+
+Kamera
+720P HD
+
+Audio
+Smart Amp Technology
+Dolby Atmos
+AI noise-canceling technology
+Hi-Res certification (for headphone)
+Built-in array microphone
+2-speaker system with Smart Amplifier Technology
+
+Jaringan dan Komunikasi
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)
+Wi-Fi 6E(802.11ax) (Triple band) 2*2 + Bluetooth® 5.2 Wireless Card (*Bluetooth® version may change with OS version different.)
+
+Baterai
+90WHrs, 4S1P, 4-cell Li-ion
+
+Suplai Daya
+ø6.0; 240W AC Adaptor; Output: 20V DC, 12A, 240W; Input: 100~240C AC 50/60Hz universal
+
+AURA SYNC
+Yes
+
+Lampu Perangkat
+Aura Sync Light Bar
+
+Berat
+3.00 Kg (6.61 lbs)
+
+Dimensi (L x D x T)
+39.9 x 29.4 x 2.31 ~ 3.08 cm (15.71" x 11.57" x 0.91" ~ 1.21")
+
+Microsoft Office
+Office Home and Student
+
+Ecolabels & Compliances
+ENERGY STAR®
+
+Security
+BIOS Administrator Password and User Password Protection
+Trusted Platform Module (Firmware TPM)
+McAfee® 30 days free trial
+
+Disertakan dalam Kotaknya
+ROG backpack
+ROG Impact Gaming Mouse
+*Included accessories vary according to country and territory. Please check with your local ASUS retailer for details
