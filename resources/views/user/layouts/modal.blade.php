@@ -381,19 +381,16 @@
             <div class="tf-search-content">
                 <div class="tf-cart-hide-has-results">
                     <div class="tf-col-quicklink">
-                        <div class="tf-search-content-title fw-5">Quick link</div>
+                        <div class="tf-search-content-title fw-5">Tautan Cepat</div>
                         <ul class="tf-quicklink-list">
                             <li class="tf-quicklink-item">
-                                <a href="{{route ('shop') }}" class="">Fashion</a>
+                                <a href="{{route ('shop') }}" class="">Gaming Handheld</a>
                             </li>
                             <li class="tf-quicklink-item">
-                                <a href="{{route ('shop') }}" class="">Men</a>
+                                <a href="{{route ('shop') }}" class="">Laptop</a>
                             </li>
                             <li class="tf-quicklink-item">
-                                <a href="{{route ('shop') }}" class="">Women</a>
-                            </li>
-                            <li class="tf-quicklink-item">
-                                <a href="{{route ('shop') }}" class="">Accessories</a>
+                                <a href="{{route ('shop') }}" class="">Phones</a>
                             </li>
                         </ul>
                     </div>
@@ -403,7 +400,7 @@
                             <div class="tf-loop-item">
                                 <div class="image">
                                     <a href="{{route ('products') }}">
-                                        <img src="images/products/white-3.jpg" alt="">
+                                        <img src="{{asset ('assets/user/images/products/white-3.jpg') }}" alt="">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -417,7 +414,7 @@
                             <div class="tf-loop-item">
                                 <div class="image">
                                     <a href="{{route ('products') }}">
-                                        <img src="images/products/white-2.jpg" alt="">
+                                        <img src="{{asset ('assets/user/images/products/white-2.jpg') }}" alt="">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -430,7 +427,7 @@
                             <div class="tf-loop-item">
                                 <div class="image">
                                     <a href="{{route ('products') }}">
-                                        <img src="images/products/white-1.jpg" alt="">
+                                        <img src="{{asset ('assets/user/images/products/white-1.jpg') }}" alt="">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -458,25 +455,25 @@
                 <li class="nav-mb-item">
                     <a href="{{route ('shop') }}" class="tf-category-link mb-menu-link">
                         <div class="image">
-                            <img src="images/shop/cate/cate1.jpg" alt="">
+                            <img src="{{asset ('assets/user/images/shop/cate/cate1.jpg') }}" alt="">
                         </div>
-                        <span>Accessories</span>
+                        <span>Gaming Handheld</span>
                     </a>
                 </li>
                 <li class="nav-mb-item">
                     <a href="{{route ('shop') }}" class="tf-category-link mb-menu-link">
                         <div class="image">
-                            <img src="images/shop/cate/cate2.jpg" alt="">
+                            <img src="{{asset ('assets/user/images/shop/cate/cate2.jpg') }}" alt="">
                         </div>
-                        <span>Dog</span>
+                        <span>Laptop</span>
                     </a>
                 </li>
                 <li class="nav-mb-item">
                     <a href="{{route ('shop') }}" class="tf-category-link mb-menu-link">
                         <div class="image">
-                            <img src="images/shop/cate/cate3.jpg" alt="">
+                            <img src="{{asset ('assets/user/images/shop/cate/cate3.jpg') }}" alt="">
                         </div>
-                        <span>Grocery</span>
+                        <span>Phone</span>
                     </a>
                 </li>
                 <li class="nav-mb-item">
@@ -650,7 +647,7 @@
                 <span class="icon-close icon-close-popup" data-bs-dismiss="modal"></span>
             </div>
             <div class="tf-login-form">
-                <form method="POST" action="">
+                <form method="POST" action="" autocomplete="off">
                     @csrf
                     <div class="tf-field style-1">
                         <input class="tf-field-input tf-input" placeholder="Masukkan Nama Anda" type="text" name="nama">
